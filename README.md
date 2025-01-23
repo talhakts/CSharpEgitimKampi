@@ -28,3 +28,9 @@ Kodları düzenli ve sonradan kullanılabilir hale getirmek için methot kullanm
 
 
 **Eğitim ilerlemesiyle C# ile ilgili daha fazla bilgi sahibi oluyoruz. Eğitimin sonunda eğitimi tamamlayan öğrencilerin C#'ı verimli bir şekilde kullanıp projeler üretebileceğini düşünüyorum. Murat Yücedağ'a emeklerinden dolayı teşekkür ederim.**
+
+
+## Entity Framework ve LINQ Sorgular
+Entity Framework ve LINQ Sorgularını kullanarak tatil projemizin istatistik tablosunu C# form kullanarak oluşturduk.
+İstatistik tablomuzda tatil projemizin seyehatlerinde toplam kapasiteyi, en pahalı, en çok kapasiteli şehirleri, turların rehberlerini v.s görebilmekteyiz.
+![image](https://github.com/user-attachments/assets/f6b1619e-0016-4908-93d4-c11923bdb597)
